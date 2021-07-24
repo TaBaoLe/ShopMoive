@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PRM391x_ShopMovies_letbFX08130</string>
+    <string name="facebook_app_id">2946085112341150</string>
+    <string name="fb_login_protocol_scheme">fb2946085112341150</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="move">Movie</string>
+    <string name="profile">Profile</string>
+    <string name="share_link">Share</string>
+
+</resources>
